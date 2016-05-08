@@ -5,7 +5,7 @@ class LinearList
 {
 public:
 	LinearList();
-	~LinearList();
+	virtual ~LinearList();
 	virtual int Size() const = 0;
 	virtual int Search(const T& target) const = 0;
 	virtual int Locate(int index) const = 0;

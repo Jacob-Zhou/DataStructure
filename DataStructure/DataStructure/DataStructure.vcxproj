@@ -20,9 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinearList.h" />
+    <ClInclude Include="SeqList.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LinearList.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{60BBE0BA-FAF8-47A3-BCBB-7F06F0CC41D5}</ProjectGuid>
